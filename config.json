@@ -1,0 +1,42 @@
+{
+    "1371980258940551338": {
+        "type": "\u05d1\u05d0\u05df",
+        "telegram_msg": "New \u05d1\u05d0\u05df ticket: *{name}*",
+        "response": "\u05d4\u05d9\u05d9 \u05d0\u05ea\u05d4 \u05d9\u05db\u05d5\u05dc \u05dc\u05e9\u05dc\u05d5\u05d7 \u05dc\u05d9 \u05ea\u05de\u05d5\u05e0\u05d4 \u05e9\u05dc \u05d4\u05d1\u05d0\u05df"
+    },
+    "1128662384131706991": {
+        "type": "hydradm question/other",
+        "telegram_msg": "New hydradm question/other ticket: *{name}*",
+        "response": "\u05d4\u05d9\u05d9 \u05d0\u05d9\u05da \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05da"
+    },
+    "1128678955277352980": {
+        "type": "hydradm player report",
+        "telegram_msg": "New hydradm player report ticket: *{name}*",
+        "response": "\u05d4\u05d9\u05d9 \u05d0\u05d9\u05da \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e2\u05d6\u05d5\u05e8 \u05dc\u05da"
+    },
+    "1128662206486159380": {
+        "type": "hydradm bans",
+        "telegram_msg": "New hydradm bans ticket: *{name}*",
+        "response": "\u05d4\u05d9\u05d9 \u05d0\u05ea\u05d4 \u05d9\u05d5\u05db\u05dc \u05dc\u05e9\u05dc\u05d5\u05d7 \u05ea\u05de\u05d5\u05e0\u05d4 \u05e9\u05dc \u05d4\u05d1\u05d0\u05df"
+    },
+    "1092750813656535040": {
+        "type": "mgrz anon wager",
+        "telegram_msg": "New mgrz anon wager ticket: *{name}*",
+        "response": "@ me when done here"
+    },
+    "829774669279789086": {
+        "type": "mgrz general support",
+        "telegram_msg": "New mgrz general support ticket: *{name}*",
+        "response": "heyy how can I help you"
+    },
+    "829768108368723968": {
+        "type": "mgrz bans",
+        "telegram_msg": "New mgrz bans ticket: *{name}*",
+        "response": "heyy can you send picture of the ban"
+    },
+    "829767845378392104": {
+        "type": "mgrz player report",
+        "telegram_msg": "New mgrz player report ticket: *{name}*",
+        "response": "heyy how can I help you"
+    }
+}
